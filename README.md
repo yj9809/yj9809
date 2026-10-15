@@ -5,7 +5,27 @@ C++·Unreal Engine을 중심으로 게임플레이와 시스템을 개발하며,
 
 [상세 포트폴리오](https://app.notion.com/p/7088d1fa63aa83b48be101cb05672970) · [mryeen44@gmail.com](mailto:mryeen44@gmail.com)
 
-## 대표 프로젝트
+## 🛠️ 기술과 도구
+
+**언어 · 프레임워크**
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat)
+![.NET / WPF](https://img.shields.io/badge/.NET%20%2F%20WPF-512BD4?style=flat&logo=dotnet&logoColor=white)
+
+**게임 · 그래픽**
+
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-222C37?style=flat&logo=unity&logoColor=white)
+![DirectX 11](https://img.shields.io/badge/DirectX%2011-107C10?style=flat)
+
+**개발 도구**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat)
+
+## 🎮 대표 프로젝트
 
 ### 01 · BladeZ
 
@@ -39,7 +59,7 @@ UI/HUD를 담당하며 공유 HUD·해킹 UI의 ViewModel/FieldNotify, 적 HP �
 
 [코드·공개 범위 안내](https://github.com/yj9809/Pragmata_2P_Clean) · [상세 포트폴리오](https://app.notion.com/p/5f08d1fa63aa83a184f681cad1598130)
 
-## 추가 프로젝트
+## 🧩 추가 프로젝트
 
 - [ASCII Defense](https://github.com/yj9809/ASCIIDefense) — C++ · A* 경로 탐색과 타워 배치에 따른 경로 재계산
 - [Console Mario](https://github.com/yj9809/ConsoleMario) — C++ · 이동·충돌·상태 전환과 스테이지 진행
