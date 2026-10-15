@@ -1,22 +1,45 @@
-# 안녕하세요, 윤제영입니다.
+# 윤제영 | 게임 클라이언트 개발자
 
-**직접 설계한 시스템이 의도한 대로 움직이는 모습을 보는 데서 재미를 느끼는 게임 클라이언트 개발자입니다.**
+C++·Unreal Engine을 중심으로 게임플레이와 시스템을 개발하며, Unity·C#으로 모바일 게임을 제작한 경험이 있습니다.
+약 1년간 C#·WPF 기반 실무를 경험했고, 입력·상태·이벤트가 이어지는 흐름과 객체의 생명주기를 고려하며 개발합니다.
 
-C++와 Unreal Engine으로 게임을 만듭니다. 입력과 상태, 전환 조건을 연결하고, 그 구조가 실제 플레이에서 동작하는 과정을 좋아합니다. 콤보 시스템에서 저장한 입력이 다음 공격으로 자연스럽게 이어질 때처럼, 여러 기능이 하나의 규칙 안에서 맞물리는 모습을 볼 때 보람을 느낍니다.
+[상세 포트폴리오](https://app.notion.com/p/7088d1fa63aa83b48be101cb05672970) · [mryeen44@gmail.com](mailto:mryeen44@gmail.com)
 
-예상과 다르게 동작하면 재현 조건과 데이터 흐름을 따라가며 원인을 확인합니다. 기능을 추가할 때도 기존 구조의 어느 부분이 책임져야 하는지 고민하며 개발합니다.
+## 대표 프로젝트
 
-최근에는 AI를 개발에 활용하면서 **자동화에도 관심을 넓히고 있습니다.** 반복되는 작업을 도구와 규칙으로 연결해, 개발 과정에서도 제가 만든 시스템이 제 역할을 하는 구조를 만들어 보고 싶습니다.
+### 01 · BladeZ
 
-팀에서는 필요한 역할을 제안하고, 서로의 기능이 연결되는 지점을 함께 정리합니다. 다른 사람이 이어서 작업할 수 있도록 필요한 값과 이벤트, 호출 시점을 문서로 남깁니다.
+**Unreal Engine 5 · C++ | 5인 팀 · 3D 무쌍 액션**
 
-[**상세 포트폴리오**](https://www.notion.so/7088d1fa63aa83b48be101cb05672970) · [**이메일**](mailto:mryeen44@gmail.com)
+플레이어 이동·카메라·전투를 담당하고, Montage 콤보와 이전·현재 위치를 연결하는 무기 Sphere Trace를 구현했습니다.
 
-## 만들어 온 것들
+[코드](https://github.com/yj9809/BladeZ) · [상세 포트폴리오](https://app.notion.com/p/0ce8d1fa63aa828fa7320107b811e7b6)
 
-- **[BladeZ](https://github.com/yj9809/BladeZ)** — UE5 팀 프로젝트에서 플레이어 전투·콤보·무기 판정을 구현했습니다. [자세히](https://www.notion.so/3678d1fa63aa8168b98ac79c315019c9)
-- **[Pragmata](https://github.com/yj9809/Pragmata_2P_Clean)** — UE5 팀 프로젝트에서 UI/HUD를 전담하고 게임 시스템과의 연결을 조율했습니다. [자세히](https://www.notion.so/39e8d1fa63aa8162a320c32c955cdf7e)
-- **[ASCII Defense](https://github.com/yj9809/ASCIIDefense)** — C++ 개인 프로젝트에서 A* 경로 탐색과 동적 경로 재계산을 구현·개선했습니다. [자세히](https://www.notion.so/3218d1fa63aa80439f14cb0b69ad034f)
-- **[Console Mario](https://github.com/yj9809/ConsoleMario)** — C++ 개인 프로젝트에서 이동·충돌·상태 전환을 구현해 스테이지 클리어까지 연결했습니다. [자세히](https://www.notion.so/aa78d1fa63aa8334890901bae1066394)
+### 02 · MiniEngine
 
-**주로 사용하는 기술:** C++ · STL · Unreal Engine 5 · Blueprint · UMG · Git
+**C++20 · DirectX 11 | 개인 · 학습용 엔진 개발 중**
+
+렌더링 파이프라인, Actor/Component 생명주기, Level 전환과 리소스 관리를 직접 구현하며 엔진 내부 구조를 학습하고 있습니다.
+
+[코드·현재 구현 상태](https://github.com/yj9809/MiniEngine) · [상세 포트폴리오](https://app.notion.com/p/3f18d1fa63aa816b8180e239c41be524)
+
+### 03 · 고양이가 츄르룹
+
+**Unity · C# · Android | 5인 팀 · 모바일 경영 게임**
+
+생산·포장·출하, 플레이어 기본 이동, 광고·저장을 담당했습니다. 팀 프로젝트로 Android에 출시했으며, 현재는 개인 리팩터링을 진행하고 있습니다.
+
+[코드](https://github.com/yj9809/churub-factory) · [상세 포트폴리오](https://app.notion.com/p/f938d1fa63aa837193d101a4f698b0a7)
+
+### 04 · Pragmata
+
+**Unreal Engine 5 · C++ · UMG | 5인 팀 · 2인 협동 학습 프로젝트**
+
+UI/HUD를 담당하며 공유 HUD·해킹 UI의 ViewModel/FieldNotify, 적 HP 이벤트 구독·해제와 팀원 간 이벤트 연결 범위를 정리했습니다.
+
+[코드·공개 범위 안내](https://github.com/yj9809/Pragmata_2P_Clean) · [상세 포트폴리오](https://app.notion.com/p/5f08d1fa63aa83a184f681cad1598130)
+
+## 추가 프로젝트
+
+- [ASCII Defense](https://github.com/yj9809/ASCIIDefense) — C++ · A* 경로 탐색과 타워 배치에 따른 경로 재계산
+- [Console Mario](https://github.com/yj9809/ConsoleMario) — C++ · 이동·충돌·상태 전환과 스테이지 진행
