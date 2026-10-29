@@ -27,7 +27,7 @@ C++·Unreal Engine을 중심으로 게임플레이와 시스템을 개발하며,
 
 ## 🎮 대표 프로젝트
 
-### 01 · BladeZ
+### BladeZ
 
 **Unreal Engine 5 · C++ | 5인 팀 · 3D 무쌍 액션**
 
@@ -35,7 +35,7 @@ C++·Unreal Engine을 중심으로 게임플레이와 시스템을 개발하며,
 
 [코드](https://github.com/yj9809/BladeZ) · [상세 포트폴리오](https://app.notion.com/p/0ce8d1fa63aa828fa7320107b811e7b6)
 
-### 02 · MiniEngine
+### MiniEngine
 
 **C++20 · DirectX 11 | 개인 · 학습용 엔진 개발 중**
 
@@ -43,7 +43,7 @@ C++·Unreal Engine을 중심으로 게임플레이와 시스템을 개발하며,
 
 [코드·현재 구현 상태](https://github.com/yj9809/MiniEngine) · [상세 포트폴리오](https://app.notion.com/p/3f18d1fa63aa816b8180e239c41be524)
 
-### 03 · 고양이가 츄르룹
+### 고양이가 츄르룹
 
 **Unity · C# · Android | 5인 팀 · 모바일 경영 게임**
 
@@ -51,7 +51,7 @@ C++·Unreal Engine을 중심으로 게임플레이와 시스템을 개발하며,
 
 [코드](https://github.com/yj9809/churub-factory) · [상세 포트폴리오](https://app.notion.com/p/f938d1fa63aa837193d101a4f698b0a7)
 
-### 04 · Pragmata
+### Pragmata
 
 **Unreal Engine 5 · C++ · UMG | 5인 팀 · 2인 협동 학습 프로젝트**
 
